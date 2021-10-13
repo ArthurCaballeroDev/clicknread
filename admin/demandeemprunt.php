@@ -45,7 +45,7 @@
                                 <div class="row mb-3">
                                     <div class="col-sm-6 mb-3 mb-sm-0"><input class="form-control form-control-user" type="dateDeParution" id="examplePasswordInput" placeholder="Date de parution" name="datedeparution"></div>
                                     <div class="col-sm-6"><input class="form-control form-control-user" type="genre" id="exampleRepeatPasswordInput" placeholder="Genre" name="genre"></div>
-                                </div><button class="btn btn-primary d-block btn-user w-100" type="submit" style="background: rgb(33,37,41);">Ajouter le livre</button>
+                                </div><button class="btn btn-primary d-block btn-user w-100" type="submit" style="background: rgb(33,37,41);">Demander le livre</button>
                                 <hr>
 								<a href="dashboardinscrit.php"onclick="history.go(-1)">Retour</a>
                             </form>
