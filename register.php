@@ -94,7 +94,7 @@ if (isset($_REQUEST['nom'], $_REQUEST['prenom'], $_REQUEST['email'],  $_REQUEST[
 								
 
                             <div class="text-center">
-                                <hr><a class="small" href="/admin/forgot-password.php">Mot de passe oublié ?</a>
+                                <hr><a class="small" href="forgotpassword.php">Mot de passe oublié ?</a>
                             </div>
                             <div class="text-center"><a class="small" href="login.php">Vous avez déjà un compte ? Connectez vous ici !</a></div>
 								
