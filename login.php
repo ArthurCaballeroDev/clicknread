@@ -66,7 +66,7 @@ if (isset($_POST['nom'])){
     													<p class="errorMessage"><?php echo $message; ?></p>
 													<?php } ?>
 									</form>
-												<div class="text-center"><a class="small" href="forgot-password.php">Mot de passe oublié ?</a></div>
+												<div class="text-center"><a class="small" href="forgotpassword.php">Mot de passe oublié ?</a></div>
   												<div class="text-center"><a class="small" href="register.php">Créer mon compte</a></div>
 												
 
